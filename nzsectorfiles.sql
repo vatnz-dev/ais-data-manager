@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Mar 09, 2021 at 05:16 AM
+-- Generation Time: Mar 09, 2021 at 06:51 AM
 -- Server version: 5.7.26
 -- PHP Version: 7.2.18
 
@@ -14720,7 +14720,7 @@ CREATE TABLE IF NOT EXISTS `procfixes` (
   `Procedures_id` int(11) NOT NULL,
   PRIMARY KEY (`id`,`Procedures_id`),
   KEY `fk_ProcFixes_Procedures1_idx` (`Procedures_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=17024 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=17028 DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `procfixes`
@@ -15527,7 +15527,11 @@ INSERT INTO `procfixes` (`id`, `fix`, `sequence`, `Symbol`, `Procedures_id`) VAL
 (17020, 'WITBY', 2, '', 2496),
 (17021, 'S040.42.31.000 E174.56.17.000', 0, '', 2497),
 (17022, 'S040.44.07.000 E174.53.01.000', 1, '', 2497),
-(17023, 'FICAN', 2, '', 2497);
+(17023, 'FICAN', 2, '', 2497),
+(17024, 'S040.42.31.000 E174.56.17.000', 0, '', 2498),
+(17025, 'S040.44.07.000 E174.53.01.000', 1, '', 2498),
+(17026, 'BRUDA', 2, '', 2498),
+(17027, 'AVKEX', 3, '', 2498);
 
 -- --------------------------------------------------------
 
