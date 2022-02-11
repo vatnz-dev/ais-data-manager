@@ -1,0 +1,9 @@
+1	; NEW ZEALAND TEST SECTOR FILE - VATNZ
+2	; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
+3	; other than via the VATNZ Website.
+4	; This sector file is designed for use with VRC and Euroscope
+5	; Note: because sct files only support one magnetic deviation value per file;
+6	;       runway centrelines may display a few degrees off proper alignment at
+7	;       the northern and southern tips of the country.
+8	;***NOTE: THIS SECTOR FILE IS A PRE-AIRAC RELEASE FOR TESTING PURPOSES ONLY - NOT FOR OPERATIONAL USE
+9	; After testing is complete; delete this file and use the current AIRAC release for online controlling

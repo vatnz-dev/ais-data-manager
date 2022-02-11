@@ -1,0 +1,30 @@
+57	NZAA	C	AA	AA	Auckland	Auckland		NZZC
+58	NZCH	C	CH	CH	Christchurch	Christchurch		NZZC
+59	NZDN	D	DN	NZDN	Dunedin	Dunedin		NZZC
+60	NZGS	D	GS	GS	Gisborne	Gisborne		NZZC
+61	NZHN	D	HN	HN	Hamilton	Hamilton		NZZC
+62	NZNP	D	NP	NP	New Plymouth	New Plymouth		NZZC
+63	NZNR	D	NR	NR	Napier	Napier		NZZC
+64	NZNS	D	NS	NS	Nelson	Nelson		NZZC
+65	NZNV	D	NV	NV	Invercargill	Invercargill		NZZC
+66	NZOH	D	OH	OH	Ohakea	Ohakea		NZZC
+67	NZPM	D	PM	PM	Palmerston North	Palmerston North		NZZC
+68	NZQN	C	QN	QN	Queenstown	Queenstown		NZZC
+69	NZRO	D	RO	RO	Rotorua	Rotorua		NZZC
+70	NZTG	D	TG	TG	Tauranga	Tauranga		NZZC
+71	NZWB	D	WB	WB	Woodbourne	Woodbourne		NZZC
+72	NZWN	C	WN	WN	Wellington	Wellington		NZZC
+73	NZWP	D	WP	WP	Whenuapai	Whenuapai		NZZC
+74	NZPP	G	PP	PP	Paraparaumu	Paraparaumu		NZZC
+75	NZMF	G	MF	NZMF	Milford Sound	Milford Sound		NZZC
+76	NIUE	D	NIUE	NU	Niue	Niue		NZZO
+77	NSFA	D	NSFA	FA	Faleolo	Faleolo		NZZO
+78	NSTU	D	NSTU	TUT	Pago Pago	Pago Pago		NZZO
+79	NTAA	D	NTAA	TAF	Tahiti	Tahiti		NZZO
+80	NTTB	D	NTTB	BB	Bora Bora	Bora Bora		NZZO
+82	NTTM	D	NTTM	NTTM	Moorea	Moorea		NZZO
+83	NTTR	D	NTTR	RU	Raiatea	Raiatea		NZZO
+84	NCRG	D	NCRG	RG	Rarotonga	Rarotonga		NZZO
+85	NFTF	D	NFTF	TBU	Fua'amotu	Fua'amotu		NZZO
+89	NZWD	D	NZWD	NZWD	Williams	Williams		NZZO
+90	NZFX	G	NZFX	NZFX	McMurdo	McMurdo		NZZO

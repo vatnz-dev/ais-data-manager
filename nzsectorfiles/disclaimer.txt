@@ -1,0 +1,11 @@
+15	; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
+16	; other than via the VATNZ Website.
+17	;
+18	; NZZC files are intended to be used with the VATNZ SkyLine pack, available from https://www.vatnz.net/airspace/sector_files/. 
+19	;
+20	; This sector file is developed for use with Euroscope. VRC support was officially dropped 8 MAY 21. See VATNZ announcement
+21	;      https://www.vatnz.net/vatnz/news/vrc-support-withdrawl/
+22	;
+23	; Note: because sct files only support one magnetic deviation value per file,
+24	;      runway centrelines may display a few degrees off proper alignment
+25	;      at the northern and southern tips of the country.
