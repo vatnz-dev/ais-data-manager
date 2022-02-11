@@ -83,29 +83,25 @@
 83	NSFA_APP	Faleolo Approach	126.9	FAA	A	NSFA	APP	-	-	-	-	0	0	0	0	0	0	0	0
 84	NTAA_APP	Tahiti Approach	121.3	TTA	A	NTAA	APP	-	-	-	-	0	0	0	0	0	0	0	0
 85	NFTV_TWR	Vavau Tower	118.1	TVT	T	NFTV	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-86	Vavau ATIS		127			NFTV	ATIS					0	0	0	0	0	0	0	0
-87	NIUE_TWR	Niue Tower	118.1	UET	T	NIUE	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-88	Niue ATIS		127.5			NIUE	ATIS					0	0	0	0	0	0	0	0
-89	NSFA_TWR	Faleolo Tower	118.1	FAT	T	NSFA	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-90	Faleolo ATIS		126.9			NSFA	ATIS					0	0	0	0	0	0	0	0
-91	NSTU_TWR	Pago Pago Tower	118.6	TUT	T	NSTU	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-92	Pago ATIS		127.9			NSTU	ATIS					0	0	0	0	0	0	0	0
-93	NTAA_TWR	Tahiti Tower	118.1	AAT	T	NTAA	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-94	NTTB_TWR	Bora Bora Tower	118.9	TBT	T	NTTB	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-95	Bora ATIS		121.5			NTTB	ATIS					0	0	0	0	0	0	0	0
-96	NTTG_TWR	Rangiroa Tower	118.3	TGT	T	NTTG	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-97	Rangiroa ATIS		122.7			NTTG	ATIS					0	0	0	0	0	0	0	0
-98	NTTH_TWR	Huahine Tower	119.3	THT	T	NTTH	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-99	Huahine ATIS		123.3			NTTH	ATIS					0	0	0	0	0	0	0	0
-100	Hao ATIS		119.8			NTTO	ATIS					0	0	0	0	0	0	0	0
-101	NTTM_TWR	Moorea Tower	118.7	TMT	T	NTTM	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-102	Moorea ATIS		118.4			NTTM	ATIS					0	0	0	0	0	0	0	0
-103	NTTR_TWR	Raiatea Tower	118.5	TRT	T	NTTR	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-104	Raiatea ATIS		119.6			NTTR	ATIS					0	0	0	0	0	0	0	0
-105	NCRG_GND	Rarotonga Ground	121.9	RGG	G	NCRG	GND	-	-	-	-	0	0	0	0	0	0	0	0
-106	Rarotonga ATIS		121.9			NCRG	ATIS					0	0	0	0	0	0	0	0
-107	NFTF_GND	Fua'amotu Ground	121.9	TFG	G	NFTF	GND	-	-	-	-	0	0	0	0	0	0	0	0
-108	Fua'amotu ATIS		121.9			NFTF	ATIS					0	0	0	0	0	0	0	0
-109	NSFA_GND	Faleolo Ground	121.9	FAG	G	NSFA	GND	-	-	-	-	0	0	0	0	0	0	0	0
-110	NTAA_GND	Tahiti Ground	121.9	AAG	G	NTAA	GND	-	-	-	-	0	0	0	0	0	0	0	0
-111	Tahiti ATIS		128.8			NTAA	ATIS					0	0	0	0	0	0	0	0
+86	NFTV_GND	Vavau Ground	121.9	GVT	G	NFTV	GND	-	-	-	-	0	0	0	0	0	0	0	0
+87	Vavau ATIS		127			NFTV	ATIS					0	0	0	0	0	0	0	0
+88	NIUE_TWR	Niue Tower	118.1	UET	T	NIUE	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+89	Niue ATIS		127.5			NIUE	ATIS					0	0	0	0	0	0	0	0
+90	NSFA_TWR	Faleolo Tower	118.1	FAT	T	NSFA	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+91	Faleolo ATIS		126.9			NSFA	ATIS					0	0	0	0	0	0	0	0
+92	NSTU_TWR	Pago Pago Tower	118.6	TUT	T	NSTU	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+93	Pago ATIS		127.9			NSTU	ATIS					0	0	0	0	0	0	0	0
+94	NTAA_TWR	Tahiti Tower	118.1	AAT	T	NTAA	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+95	NTTB_TWR	Bora Bora Tower	118.9	TBT	T	NTTB	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+96	Bora ATIS		121.5			NTTB	ATIS					0	0	0	0	0	0	0	0
+97	NTTM_TWR	Moorea Tower	118.7	TMT	T	NTTM	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+98	Moorea ATIS		118.4			NTTM	ATIS					0	0	0	0	0	0	0	0
+99	NTTR_TWR	Raiatea Tower	118.5	TRT	T	NTTR	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+100	Raiatea ATIS		119.6			NTTR	ATIS					0	0	0	0	0	0	0	0
+101	NCRG_GND	Rarotonga Ground	121.9	RGG	G	NCRG	GND	-	-	-	-	0	0	0	0	0	0	0	0
+102	Rarotonga ATIS		121.9			NCRG	ATIS					0	0	0	0	0	0	0	0
+103	NFTF_GND	Fua'amotu Ground	121.9	TFG	G	NFTF	GND	-	-	-	-	0	0	0	0	0	0	0	0
+104	Fua'amotu ATIS		121.9			NFTF	ATIS					0	0	0	0	0	0	0	0
+105	NSFA_GND	Faleolo Ground	121.9	FAG	G	NSFA	GND	-	-	-	-	0	0	0	0	0	0	0	0
+106	NTAA_GND	Tahiti Ground	121.9	AAG	G	NTAA	GND	-	-	-	-	0	0	0	0	0	0	0	0
+107	Tahiti ATIS		128.8			NTAA	ATIS					0	0	0	0	0	0	0	0
