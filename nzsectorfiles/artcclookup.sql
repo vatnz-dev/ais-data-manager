@@ -20,10 +20,10 @@ DROP TABLE IF EXISTS `artcclookup`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `artcclookup` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `airspacetype` enum('Restricted','Danger','CTA','CTR','FIR','Military','SCTFIR') NOT NULL,
+  `airspacetype` enum('Restricted','Danger','CTA','CTR','FIR','Military','ManualFIR','CFZ','MBZ','ENR','TMA','Pacific_RA','Pacific_DA') NOT NULL,
   `artcctable` enum('ARTCC','ARTCCHIGH','ARTCCLOW','') NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
