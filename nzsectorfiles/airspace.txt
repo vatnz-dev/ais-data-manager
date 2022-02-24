@@ -1,12 +1,4 @@
 8773	NZZC	NZZC	NEW ZEALAND FIR	; - NEW ZEALAND FIR	FIR	A	true	0	99900		0	0	NZZC
-8864	NZZO	NZZO	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZOVSYS
-8865	NZZO-A	NZZO-A	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
-8866	NZZO-B	NZZO-B	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
-8867	NZCM	NZCM	McMurdo Oceanic FIR	; - McMurdo Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZOVSYS
-8868	NZCM-A	NZCM-A	McMurdo Oceanic FIR	; - McMurdo Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
-8869	NZCM-B	NZCM-B	McMurdo Oceanic Extension FIR	; - McMurdo Oceanic Extension FIR	ManualFIR	A	true	0	99900		0	0	VSPY
-8870	NTTT	NTTT	Tahiti Oceanic FIR	; - Tahiti Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZO
-8871	NSFA	NSFA	Faleolo FIR	; - Faleolo FIR	ManualFIR	A	true	0	99900		0	0	NZZO
 8881	NZC773	MFTWR	MILFORD SOUND NZC773	; MILFORD SOUND AFIS (NZMF)	CFZ	G	true	0	11000		0	0	NZZC
 8882	NZA132	AA C A132 135-600	AUCKLAND NZA132	; AUCKLAND	CTA	C	true	13500	60000		0	0	NZZC
 8883	NZA136	AA C A136 065-095	AUCKLAND NZA136	; AUCKLAND	CTA	C	true	6500	9500		0	0	NZZC
@@ -233,3 +225,17 @@
 9105	NZCS	NZCS	South Sector	; - South Sector	ENR	C	true	0	99900		0	0	NZZCNZZO
 9106	NZCK	NZCK	Kaikoura Sector	; - Kaikoura Sector	ENR	C	true	0	99900		0	0	NZZCNZZO
 9107	NZAR	NZAR	Raglan Sector	; - Raglan Sector	ENR	C	true	0	99900		0	0	VSYS
+9120	NZZO-C	NZZO-C	NZZO Cook Sector	; - NZZO Cook Sector	ENR	C	true	0	24500		0	0	NZZOVSYS
+9121	NZZO-S	NZZO-S	NZZO Samoa Sector	; - NZZO Samoa Sector	ENR	C	true	0	24500		0	0	NZZOVSYS
+9122	NZZO-T	NZZO-T	NZZO Tonga Sector	; - NZZO Tonga Sector	ENR	C	true	0	24500		0	0	NZZOVSYS
+9123	NSFA	NSFA	NSFA	; - NSFA	ENR	C	true	0	24500		0	0	NZZO
+9124	NZZO	NZZO	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZOVSYS
+9125	NZZO-A	NZZO-A	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
+9126	NZZO-B	NZZO-B	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
+9127	NZCM	NZCM	McMurdo Oceanic FIR	; - McMurdo Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZOVSYS
+9128	NZCM-A	NZCM-A	McMurdo Oceanic FIR	; - McMurdo Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
+9129	NZCM-B	NZCM-B	McMurdo Oceanic Extension FIR	; - McMurdo Oceanic Extension FIR	ManualFIR	A	true	0	99900		0	0	VSPY
+9130	NTTT	NTTT	Tahiti Oceanic FIR	; - Tahiti Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZO
+9135	NTTT-A	NTTT-A	TahitiIlesSector	; - TahitiIlesSector	ENR	C	true	1500	19500		0	0	NZZO
+9136	NTTT-E	NTTT-E	TahitiClassE	; - TahitiClassE	ENR	C	true	4500	19500		0	0	NZZO
+9137	NTAA	NTAA	Tahiti Approach	; - Tahiti Approach	TMA	C	true	19500	2500		0	0	NZZC
