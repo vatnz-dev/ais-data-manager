@@ -238,4 +238,4 @@
 9130	NTTT	NTTT	Tahiti Oceanic FIR	; - Tahiti Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZO
 9135	NTTT-A	NTTT-A	TahitiIlesSector	; - TahitiIlesSector	ENR	C	true	1500	19500		0	0	NZZO
 9136	NTTT-E	NTTT-E	TahitiClassE	; - TahitiClassE	ENR	C	true	4500	19500		0	0	NZZO
-9137	NTAA	NTAA	Tahiti Approach	; - Tahiti Approach	TMA	C	true	19500	2500		0	0	NZZC
+9137	NTAA	NTAA	Tahiti Approach	; - Tahiti Approach	TMA	C	true	19500	2500		0	0	NZZO
