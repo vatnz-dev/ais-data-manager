@@ -27,7 +27,7 @@ CREATE TABLE `es_freetext` (
   `GRP` varchar(45) NOT NULL,
   `text` varchar(264) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=709 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=568 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
