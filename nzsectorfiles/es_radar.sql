@@ -29,7 +29,7 @@ CREATE TABLE `es_radar` (
   `SSR_S_ADSB` varchar(32) NOT NULL DEFAULT '''0:0:0''',
   `SSR_C` varchar(32) NOT NULL DEFAULT '0:0:0',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=37 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=60 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 

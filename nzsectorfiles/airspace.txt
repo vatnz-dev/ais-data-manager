@@ -8,9 +8,6 @@
 9105	NZCS	NZCS	South Sector	; - South Sector	ENR	C	true	0	99900		0	0	NZZCNZZO
 9106	NZCK	NZCK	Kaikoura Sector	; - Kaikoura Sector	ENR	C	true	0	99900		0	0	NZZCNZZO
 9107	NZAR	NZAR	Raglan Sector	; - Raglan Sector	ENR	C	true	0	99900		0	0	VSYS
-9120	NZZO-C	NZZO-C	NZZO Cook Sector	; - NZZO Cook Sector	ENR	C	true	0	24500		0	0	NZZOVSYS
-9121	NZZO-S	NZZO-S	NZZO Samoa Sector	; - NZZO Samoa Sector	ENR	C	true	0	24500		0	0	NZZOVSYS
-9122	NZZO-T	NZZO-T	NZZO Tonga Sector	; - NZZO Tonga Sector	ENR	C	true	0	24500		0	0	NZZOVSYS
 9124	NZZO	NZZO	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZOVSYS
 9125	NZZO-A	NZZO-A	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
 9126	NZZO-B	NZZO-B	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
@@ -18,8 +15,6 @@
 9128	NZCM-A	NZCM-A	McMurdo Oceanic FIR	; - McMurdo Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
 9129	NZCM-B	NZCM-B	McMurdo Oceanic Extension FIR	; - McMurdo Oceanic Extension FIR	ManualFIR	A	true	0	99900		0	0	VSPY
 9130	NTTT	NTTT	Tahiti Oceanic FIR	; - Tahiti Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZO
-9135	NTTT-A	NTTT-A	TahitiIlesSector	; - TahitiIlesSector	ENR	C	true	1500	19500		0	0	NZZO
-9136	NTTC	NTTC	TahitiClassE	; - TahitiClassE	ENR	C	true	4500	19500		0	0	NZZO
 9137	NTAA	NTAA	Tahiti Approach	; - Tahiti Approach	TMA	C	true	19500	2500		0	0	NZZO
 9355	NZA132	AA C A132 135-600	AUCKLAND NZA132	; AUCKLAND	CTA	C	true	13500	60000		0	0	NZZC
 9356	NZA136	AA C A136 065-095	AUCKLAND NZA136	; AUCKLAND	CTA	C	true	6500	9500		0	0	NZZC
@@ -238,11 +233,7 @@
 9569	NZR902	NZR902 SFC-015 KAITORETE SPIT	R902 KAITORETE SPIT	; - KAITORETE SPIT	Restricted		true	0	1500	H24	0000	0000	NZZC
 9570	NZR905	NZR905 SFC-020 TAIAROA HEAD	R905 TAIAROA HEAD	; - TAIAROA HEAD	Restricted		true	0	2000	H24	0000	0000	NZZC
 9571	NZB680	PPTWR	PARAPARAUMU NZB680	; PARAPARAUMU AFIS (NZPP)	MBZ	G	true	0	0		0	0	NZZC
-9572	NSFA	NSFA	Faleolo	; - Faleolo	ENR	C	true	0	24500		0	0	VSPY
-9573	NSFA-W	NSFA-W	Faleolo West	; - Faleolo West	ENR	C	true	0	24500		0	0	NZZOVSYS
-9574	NSFA-E	NSFA-E	Faleolo East	; - Faleolo East	ENR	C	true	3500	24500		0	0	NZZOVSYS
 9575	NSFA_APP	NSFA_APP	Faleolo	; - Faleolo	TMA		true	0	0		0	0	NZZOVSYS
-9576	NCRG	NCRG	Rarotonga	; - Rarotonga	ENR	C	true	0	24500		0	0	NZZO
 9577	NCRG_APP	NCRG_APP	Rarotonga	; - Rarotonga	TMA		true	0	0		0	0	NZZOVSYS
 9578	NFTF_APP	NFTF_APP	Fuaamotu	; - Fuaamotu	TMA		true	0	0		0	0	NZZOVSYS
 9579	NIUE_TWR	NIUE_TWR	Niue	; - Niue	TMA		true	0	0		0	0	NZZOVSYS
@@ -254,3 +245,9 @@
 9585	NFLD	NFLD	Flinders Oceanic	; - Flinders Oceanic	ENR	C	true	0	99900		0	0	NZZOVSYS
 9586	NHWE	NHWE	Howe Oceanic	; - Howe Oceanic	ENR	C	true	0	99900		0	0	NZZOVSYS
 9587	NFFF	NFFF	Nadi Oceanic FIR	; - Nadi Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZOVSYS
+9588	NSFA	NSFA	Faleolo	; - Faleolo	ENR	C	true	0	24500		0	0	VSPY
+9589	NSFA-W	NSFA-W	Faleolo West	; - Faleolo West	ENR	C	true	0	24500		0	0	NZZOVSYS
+9590	NSFA-E	NSFA-E	Faleolo East	; - Faleolo East	ENR	C	true	3500	24500		0	0	NZZOVSYS
+9591	NCRG	NCRG	Rarotonga	; - Rarotonga	ENR	C	true	0	24500		0	0	NZZO
+9592	NTTT-A	NTTT-A	TahitiIlesSector	; - TahitiIlesSector	ENR	C	true	1500	19500		0	0	NZZOVSYS
+9593	NTTC	NTTC	TahitiClassE	; - TahitiClassE	ENR	C	true	4500	19500		0	0	NZZO

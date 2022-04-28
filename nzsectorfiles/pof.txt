@@ -67,44 +67,45 @@
 67	BN-TSN_FSS#	Brisbane Radio	124.65	TSN	O	BN-TSN	FSS	-	-	-	-	0	0	0	0	0	0	0	0
 68	BN-COL_FSS#	Brisbane Radio	133.15	COL	O	BN-COL	FSS	-	-	-	-	0	0	0	0	0	0	0	0
 69	BN-FLD_FSS#	Brisbane Radio	132.85	FLD	O	BN-FLD	FSS	-	-	-	-	0	0	0	0	0	0	0	0
-70	BN-HWE_FSS#	Brisbane Radio	124.95	HWE	o	BN-HWE	FSS	-	-	-	-	0	0	0	0	0	0	0	0
-71	NFFF_FSS#	Nadi Radio	123.6	NO	O	NFFF	FSS	-	-	-	-	0	0	0	0	0	0	0	0
-72	KZAK-E_FSS#	San Francisco Radio	131.95	ZE	O	ZAK-E	FSS	-	-	-	-	0	0	0	0	0	0	0	0
-73	KZAK-W_FSS#	San Francisco Radio	122.5	ZW	O	ZAK-W	FSS	-	-	-	-	0	0	0	0	0	0	0	0
-74	ML-IND_FSS#	Brisbane Radio	129.25	IND	O	ML-IND	FSS	-	-	-	-	0	0	0	0	0	0	0	0
-75	NZZO_FSS	Auckland Radio	128.9	ARO	O	NZZO	FSS	-	-	0253	0311	0	0	0	0	0	0	0	0
-76	NZZO-E_FSS	Auckland Radio (East)	131.5	ARE	O	NZZO-E	FSS	-	-	-	-	0	0	0	0	0	0	0	0
-77	NZCM_FSS	Mac Center	128.7	MCT	O	NZCM	FSS	-	-	-	-	0	0	0	0	0	0	0	0
-78	NTTT_FSS	Tahiti Radio	125.5	TRD	O	NTTT	FSS	-	-	-	-	0	0	0	0	0	0	0	0
-79	NTTT_CTR	Tahiti Control	134.7	TCTR	T	NTTT	CTR	-	-	-	-	0	0	0	0	0	0	0	0
-80	NSFA_CTR	Faleolo Control	123.8	FAL	F	NSFA	CTR	-	-	-	-	0	0	0	0	0	0	0	0
-81	NZWD_TWR	Williams Tower	126.2	WMT	T	NZWD	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-82	Williams ATIS		122.6			NZWD	ATIS					0	0	0	0	0	0	0	0
-83	NCRG_APP	Rarotonga Approach	118.1	RAa	A	NCRG	APP	-	-	-	-	0	0	0	0	0	0	0	0
-84	NCRG_CTR	Rarotonga Control	118.9	CRA	T	NCRG	CTR	-	-	-	-	0	0	0	0	0	0	0	0
-85	NFTF_APP	Fua'amotu Control	118.5	FTA	A	NFTF	APP	-	-	-	-	0	0	0	0	0	0	0	0
-86	NSFA_APP	Faleolo Approach	126.9	FAA	A	NSFA	APP	-	-	-	-	0	0	0	0	0	0	0	0
-87	NTAA_APP	Tahiti Approach	121.3	TTA	A	NTAA	APP	-	-	-	-	0	0	0	0	0	0	0	0
-88	NFTV_TWR	Vavau Tower	118.1	TVT	T	NFTV	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-89	NFTV_GND	Vavau Ground	121.9	GVT	G	NFTV	GND	-	-	-	-	0	0	0	0	0	0	0	0
-90	Vavau ATIS		127			NFTV	ATIS					0	0	0	0	0	0	0	0
-91	NIUE_TWR	Niue Tower	118.1	UET	T	NIUE	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-92	Niue ATIS		127.5			NIUE	ATIS					0	0	0	0	0	0	0	0
-93	NSFA_TWR	Faleolo Tower	118.1	FAT	T	NSFA	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-94	Faleolo ATIS		126.9			NSFA	ATIS					0	0	0	0	0	0	0	0
-95	NSTU_TWR	Pago Pago Tower	118.6	TUT	T	NSTU	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-96	Pago ATIS		127.9			NSTU	ATIS					0	0	0	0	0	0	0	0
-97	NTAA_TWR	Tahiti Tower	118.1	AAT	T	NTAA	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-98	NTTB_TWR	Bora Bora Tower	118.9	TBT	T	NTTB	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-99	Bora ATIS		121.5			NTTB	ATIS					0	0	0	0	0	0	0	0
-100	NTTM_TWR	Moorea Tower	118.7	TMT	T	NTTM	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-101	Moorea ATIS		118.4			NTTM	ATIS					0	0	0	0	0	0	0	0
-102	NTTR_TWR	Raiatea Tower	118.5	TRT	T	NTTR	TWR	-	-	-	-	0	0	0	0	0	0	0	0
-103	Raiatea ATIS		119.6			NTTR	ATIS					0	0	0	0	0	0	0	0
-104	NCRG_GND	Rarotonga Ground	121.9	RGG	G	NCRG	GND	-	-	-	-	0	0	0	0	0	0	0	0
-105	Rarotonga ATIS		121.9			NCRG	ATIS					0	0	0	0	0	0	0	0
-106	NFTF_GND	Fua'amotu Ground	121.9	TFG	G	NFTF	GND	-	-	-	-	0	0	0	0	0	0	0	0
-107	Fua'amotu ATIS		121.9			NFTF	ATIS					0	0	0	0	0	0	0	0
-108	NSFA_GND	Faleolo Ground	121.9	FAG	G	NSFA	GND	-	-	-	-	0	0	0	0	0	0	0	0
-109	NTAA_GND	Tahiti Ground	121.9	AAG	G	NTAA	GND	-	-	-	-	0	0	0	0	0	0	0	0
-110	Tahiti ATIS		128.8			NTAA	ATIS					0	0	0	0	0	0	0	0
+70	BN-HWE_FSS#	Brisbane Radio	124.95	HWE	O	BN-HWE	FSS	-	-	-	-	0	0	0	0	0	0	0	0
+71	BN-INS_FSS#	Brisbane Radio	129.25	INS	O	BN-INS	FSS	-	-	-	-	0	0	0	0	0	0	0	0
+72	NFFF_FSS#	Nadi Radio	123.6	NO	O	NFFF	FSS	-	-	-	-	0	0	0	0	0	0	0	0
+73	KZAK-E_FSS#	San Francisco Radio	131.95	ZE	O	ZAK-E	FSS	-	-	-	-	0	0	0	0	0	0	0	0
+74	KZAK-W_FSS#	San Francisco Radio	122.5	ZW	O	ZAK-W	FSS	-	-	-	-	0	0	0	0	0	0	0	0
+75	ML-IND_FSS#	Brisbane Radio	129.25	IND	O	ML-IND	FSS	-	-	-	-	0	0	0	0	0	0	0	0
+76	NZZO_FSS	Auckland Radio	128.9	ARO	O	NZZO	FSS	-	-	0253	0311	0	0	0	0	0	0	0	0
+77	NZZO-E_FSS	Auckland Radio (East)	131.5	ARE	O	NZZO-E	FSS	-	-	-	-	0	0	0	0	0	0	0	0
+78	NZCM_FSS	Mac Center	128.7	MCT	O	NZCM	FSS	-	-	-	-	0	0	0	0	0	0	0	0
+79	NTTT_FSS	Tahiti Radio	125.5	TRD	O	NTTT	FSS	-	-	-	-	0	0	0	0	0	0	0	0
+80	NTTC_CTR	Tahiti Control	134.7	TCTR	T	NTTC	CTR	-	-	-	-	0	0	0	0	0	0	0	0
+81	NSFA_CTR	Faleolo Control	123.8	FAL	F	NSFA	CTR	-	-	-	-	0	0	0	0	0	0	0	0
+82	NZWD_TWR	Williams Tower	126.2	WMT	T	NZWD	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+83	Williams ATIS		122.6			NZWD	ATIS					0	0	0	0	0	0	0	0
+84	NCRG_APP	Rarotonga Approach	118.1	RAa	A	NCRG	APP	-	-	-	-	0	0	0	0	0	0	0	0
+85	NCRG_CTR	Rarotonga Control	118.9	CRA	T	NCRG	CTR	-	-	-	-	0	0	0	0	0	0	0	0
+86	NFTF_APP	Fua'amotu Control	118.5	FTA	A	NFTF	APP	-	-	-	-	0	0	0	0	0	0	0	0
+87	NSFA_APP	Faleolo Approach	126.9	FAA	A	NSFA	APP	-	-	-	-	0	0	0	0	0	0	0	0
+88	NTAA_APP	Tahiti Approach	121.3	TTA	A	NTAA	APP	-	-	-	-	0	0	0	0	0	0	0	0
+89	NFTV_TWR	Vavau Tower	118.1	TVT	T	NFTV	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+90	NFTV_GND	Vavau Ground	121.9	GVT	G	NFTV	GND	-	-	-	-	0	0	0	0	0	0	0	0
+91	Vavau ATIS		127			NFTV	ATIS					0	0	0	0	0	0	0	0
+92	NIUE_TWR	Niue Tower	118.1	UET	T	NIUE	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+93	Niue ATIS		127.5			NIUE	ATIS					0	0	0	0	0	0	0	0
+94	NSFA_TWR	Faleolo Tower	118.1	FAT	T	NSFA	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+95	Faleolo ATIS		126.9			NSFA	ATIS					0	0	0	0	0	0	0	0
+96	NSTU_TWR	Pago Pago Tower	118.6	TUT	T	NSTU	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+97	Pago ATIS		127.9			NSTU	ATIS					0	0	0	0	0	0	0	0
+98	NTAA_TWR	Tahiti Tower	118.1	AAT	T	NTAA	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+99	NTTB_TWR	Bora Bora Tower	118.9	TBT	T	NTTB	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+100	Bora ATIS		121.5			NTTB	ATIS					0	0	0	0	0	0	0	0
+101	NTTM_TWR	Moorea Tower	118.7	TMT	T	NTTM	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+102	Moorea ATIS		118.4			NTTM	ATIS					0	0	0	0	0	0	0	0
+103	NTTR_TWR	Raiatea Tower	118.5	TRT	T	NTTR	TWR	-	-	-	-	0	0	0	0	0	0	0	0
+104	Raiatea ATIS		119.6			NTTR	ATIS					0	0	0	0	0	0	0	0
+105	NCRG_GND	Rarotonga Ground	121.9	RGG	G	NCRG	GND	-	-	-	-	0	0	0	0	0	0	0	0
+106	Rarotonga ATIS		121.9			NCRG	ATIS					0	0	0	0	0	0	0	0
+107	NFTF_GND	Fua'amotu Ground	121.9	TFG	G	NFTF	GND	-	-	-	-	0	0	0	0	0	0	0	0
+108	Fua'amotu ATIS		121.9			NFTF	ATIS					0	0	0	0	0	0	0	0
+109	NSFA_GND	Faleolo Ground	121.9	FAG	G	NSFA	GND	-	-	-	-	0	0	0	0	0	0	0	0
+110	NTAA_GND	Tahiti Ground	121.9	AAG	G	NTAA	GND	-	-	-	-	0	0	0	0	0	0	0	0
+111	Tahiti ATIS		128.8			NTAA	ATIS					0	0	0	0	0	0	0	0
