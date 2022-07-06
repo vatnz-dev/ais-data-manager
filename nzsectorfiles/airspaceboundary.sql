@@ -26,7 +26,7 @@ CREATE TABLE `airspaceboundary` (
   `id_airspace` int(11) NOT NULL,
   PRIMARY KEY (`id`),
   KEY `id_airspace` (`id_airspace`)
-) ENGINE=InnoDB AUTO_INCREMENT=228267 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=233461 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
