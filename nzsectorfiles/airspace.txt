@@ -14,12 +14,6 @@
 9128	NZCM-A	NZCM-A	McMurdo Oceanic FIR	; - McMurdo Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
 9129	NZCM-B	NZCM-B	McMurdo Oceanic Extension FIR	; - McMurdo Oceanic Extension FIR	ManualFIR	A	true	0	99900		0	0	VSPY
 9130	NTTT	NTTT	Tahiti Oceanic FIR	; - Tahiti Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZO
-9137	NTAA	NTAA	Tahiti Approach	; - Tahiti Approach	TMA	C	true	19500	2500		0	0	NZZO
-9575	NSFA_APP	NSFA_APP	Faleolo	; - Faleolo	TMA		true	0	0		0	0	NZZOVSYS
-9577	NCRG_APP	NCRG_APP	Rarotonga	; - Rarotonga	TMA		true	0	0		0	0	NZZOVSYS
-9578	NFTF_APP	NFTF_APP	Fuaamotu	; - Fuaamotu	TMA		true	0	0		0	0	NZZOVSYS
-9579	NIUE_TWR	NIUE_TWR	Niue	; - Niue	TMA		true	0	0		0	0	NZZOVSYS
-9580	NSTU_TWR	NSTU_TWR	Pago Pago	; - Pago Pago	TMA		true	0	0		0	0	NZZOVSYS
 9581	NVVV	NVVV	Vanuatu	; - Vanuatu	ENR	C	true	0	99900		0	0	NZZOVSYS
 9582	NWWW	NWWW	New Calendonia	; - New Calendonia	ENR	C	true	0	99900		0	0	NZZOVSYS
 9583	NTSN	NTSN	Tasman Oceanic	; - Tasman Oceanic	ENR	C	true	0	99900		0	0	NZZOVSYS
@@ -251,3 +245,13 @@
 10330	NZR905	NZR905 SFC-020 TAIAROA HEAD	R905 TAIAROA HEAD	; - TAIAROA HEAD	Restricted		true	0	2000	H24	0000	0000	NZZC
 10331	NZB680	PPTWR	PARAPARAUMU NZB680	; PARAPARAUMU AFIS (NZPP)	MBZ	G	true	0	0		0	0	NZZC
 10332	NZC773	MFTWR	MILFORD SOUND NZC773	; MILFORD SOUND AFIS (NZMF)	CFZ	G	true	0	11000		0	0	NZZC
+10335	NZAA_APP	NZAA_APP	Auckland Approach	; - Auckland Approach	TMA	C	true	0	9500		0	0	NZZC
+10336	NZCH_APP	NZCH_APP	Christchurch Approach	; - Christchurch Approach	TMA	C	true	0	9500		0	0	NZZC
+10337	NZHN_APP	NZHN_APP	Hamilton Approach	; - Hamilton Approach	TMA	C	true	0	9500		0	0	NZZC
+10338	NZOH_APP	NZOH_APP	Ohakea Approach	; - Ohakea Approach	TMA	C	true	0	9500		0	0	NZZC
+10339	NZQN_APP	NZQN_APP	Queenstown Approach	; - Queenstown Approach	TMA	C	true	0	17500		0	0	NZZC
+10341	NZWN_APP	NZWN_APP	Wellington Approach	; - Wellington Approach	TMA	C	true	0	9500		0	0	NZZC
+10343	NCRG_APP	NCRG_APP	Rarotonga Tower	; - Rarotonga Tower	TMA		true	0	14500		0	0	NZZO
+10344	NFTF_APP	NFTF_APP	Fuaamotu Tower	; - Fuaamotu Tower	TMA		true	0	19500		0	0	NZZO
+10345	NSFA_APP	NSFA_APP	Faleolo Tower	; - Faleolo Tower	TMA		true	0	7500		0	0	NZZO
+10347	NTAA_APP	NTAA_APP	Tahiti Approach	; - Tahiti Approach	TMA	C	true	19500	2500		0	0	NZZO
