@@ -10,9 +10,6 @@
 9124	NZZO	NZZO	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZOVSYS
 9125	NZZO-A	NZZO-A	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
 9126	NZZO-B	NZZO-B	Auckland Oceanic FIR	; - Auckland Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
-9127	NZCM	NZCM	McMurdo Oceanic FIR	; - McMurdo Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZOVSYS
-9128	NZCM-A	NZCM-A	McMurdo Oceanic FIR	; - McMurdo Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
-9129	NZCM-B	NZCM-B	McMurdo Oceanic Extension FIR	; - McMurdo Oceanic Extension FIR	ManualFIR	A	true	0	99900		0	0	VSPY
 9130	NTTT	NTTT	Tahiti Oceanic FIR	; - Tahiti Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZO
 9581	NVVV	NVVV	Vanuatu	; - Vanuatu	ENR	C	true	0	99900		0	0	NZZOVSYS
 9582	NWWW	NWWW	New Calendonia	; - New Calendonia	ENR	C	true	0	99900		0	0	NZZOVSYS
@@ -255,3 +252,6 @@
 10561	NZR901	NZR901 SFC-020 MOERAKI	R901 MOERAKI	; - MOERAKI	Restricted		true	0	2000	H24	0000	0000	NZZC
 10562	NZR902	NZR902 SFC-015 KAITORETE SPIT	R902 KAITORETE SPIT	; - KAITORETE SPIT	Restricted		true	0	1500	H24	0000	0000	NZZC
 10563	NZR905	NZR905 SFC-020 TAIAROA HEAD	R905 TAIAROA HEAD	; - TAIAROA HEAD	Restricted		true	0	2000	H24	0000	0000	NZZC
+10564	NZCM	NZCM	McMurdo Oceanic FIR	; - McMurdo Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZOVSYS
+10565	NZCM-A	NZCM-A	McMurdo Oceanic FIR	; - McMurdo Oceanic FIR	ManualFIR	A	true	0	99900		0	0	VSPY
+10566	NZCM-B	NZCM-B	McMurdo Oceanic Extension FIR	; - McMurdo Oceanic Extension FIR	ManualFIR	A	true	0	99900		0	0	VSPY
