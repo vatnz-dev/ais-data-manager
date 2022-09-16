@@ -2634,10 +2634,6 @@
 23954	AA502	0		3433
 23955	AA503	1		3433
 23956	VAITE	2		3433
-23957	ADKUP	0	solidtriangle	3662
-23958	FAM07	1	maltesecross	3662
-23959	MALYC	0	solidtriangle	3663
-23960	FAM25	1	maltesecross	3663
 23970	RISKI	0	solidtriangle	3669
 23971	AR402	1	maltesecross	3669
 23972	AR404	2		3669
@@ -2705,10 +2701,6 @@
 24043	OSPOD	1		3755
 24044	RU_NDB	2	circle	3755
 24045	BB_NDB	3	circle	3755
-24046	BOKAL	0	solidtriangle	3756
-24047	FTB11	1	maltesecross	3756
-24048	BELBO	0	solidtriangle	3759
-24049	FTB29	1	maltesecross	3759
 24050	S016.27.34.524 E208.16.16.896	0		3444
 24051	HHN_VOR	1	circle	3444
 24055	S016.27.34.524 E208.16.16.896	0		3446
@@ -2879,8 +2871,6 @@
 24243	TF762	1	maltesecross	3805
 24244	DORNI	0	solidtriangle	3808
 24245	TF982	1	maltesecross	3808
-24246	POSUS	0	solidtriangle	3811
-24247	TP689	1	maltesecross	3811
 24248	SEKDA	0	solidtriangle	3814
 24249	TL546	1	maltesecross	3814
 24250	AVNOX	0	solidtriangle	3817
@@ -2939,22 +2929,6 @@
 24308	PEXIS	1	maltesecross	3860
 24309	TAMEV	0	solidtriangle	3863
 24310	PY405	1	maltesecross	3863
-24311	SAPAS	0	solidtriangle	3867
-24312	PK401	1	maltesecross	3867
-24313	TANOU	0	solidtriangle	3870
-24314	MR934	1	maltesecross	3870
-24315	MEKUX	0	solidtriangle	3873
-24316	MK934	1	maltesecross	3873
-24317	TUMPI	0	solidtriangle	3876
-24318	MG934	1	maltesecross	3876
-24319	BUNTU	0	solidtriangle	3879
-24320	MH401	1	maltesecross	3879
-24321	LEBEN	0	solidtriangle	3882
-24322	MH501	1	maltesecross	3882
-24323	RUKDU	0	solidtriangle	3885
-24324	CI452	1	maltesecross	3885
-24325	MAVGI	0	solidtriangle	3888
-24326	CI704	1	maltesecross	3888
 24327	HHN_VOR	0	circle	3752
 24328	ATALA	1		3752
 24329	BB_NDB	2	circle	3752
@@ -3466,3 +3440,29 @@
 25035	VAPLI	3		3992
 25036	MO552	0		3172
 25037	GULAN	1		3172
+25038	ADKUP	0	triangle	3662
+25039	FAM07	1	maltesecross	3662
+25040	MALYC	0	triangle	3663
+25041	FAM25	1	maltesecross	3663
+25042	BOKAL	0	triangle	3756
+25043	FTB11	1	maltesecross	3756
+25044	BELBO	0	triangle	3759
+25045	FTB29	1	maltesecross	3759
+25046	POSUS	0	triangle	3811
+25047	TP689	1	maltesecross	3811
+25048	SAPAS	0	triangle	3867
+25049	PK401	1	maltesecross	3867
+25050	TANOU	0	triangle	3870
+25051	MR934	1	maltesecross	3870
+25052	TUMPI	0	triangle	3876
+25053	MG934	1	maltesecross	3876
+25054	MEKUX	0	triangle	3873
+25055	MK934	1	maltesecross	3873
+25056	BUNTU	0	triangle	3879
+25057	MH401	1	maltesecross	3879
+25058	LEBEN	0	triangle	3882
+25059	MH501	1	maltesecross	3882
+25060	RUKDU	0	triangle	3885
+25061	CI452	1	maltesecross	3885
+25062	MAVGI	0	triangle	3888
+25063	CI704	1	maltesecross	3888
