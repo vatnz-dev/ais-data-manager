@@ -28,7 +28,7 @@ CREATE TABLE `holding` (
   `Long1Doub` double NOT NULL DEFAULT 0,
   `ExportID` enum('NZZC','VSPY','VSYS','NZZCVSYS','NZZO','NZZOVSYS','NZZCNZZO') NOT NULL DEFAULT 'NZZC',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=378 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=537 DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
