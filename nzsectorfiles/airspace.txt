@@ -240,18 +240,18 @@
 11217	NZR905	NZR905 SFC-020 TAIAROA HEAD	R905 TAIAROA HEAD	; - TAIAROA HEAD	Restricted		true	0	2000	H24	0000	0000	NZZC
 11218	NZB680	PPTWR	PARAPARAUMU NZB680	; PARAPARAUMU AFIS (NZPP)	MBZ	G	true	0	0		0	0	NZZC
 11219	NZC773	MFTWR	MILFORD SOUND NZC773	; MILFORD SOUND AFIS (NZMF)	CFZ	G	true	0	11000		0	0	NZZC
-11234	NZOH	NZOH	Ohakea	; - Ohakea	ENR	C	true	0	99900		0	0	NZZCNZZO
-11235	NZCT	NZCT	Taranaki	; - Taranaki	ENR	C	true	0	99900		0	0	VSYS
-11236	NZCT-A	NZCT-A	Taranaki inc Ohakea	; - Taranaki inc Ohakea	ENR	C	true	0	99900		0	0	VSPY
-11237	NZCB	NZCB	Bay Approach	; - Bay Approach	ENR	C	true	0	99900		0	0	NZZCNZZO
-11238	NZAA	NZAA	Auckland inc Bays	; - Auckland inc Bays	ENR	C	true	0	99900		0	0	VSPY
-11239	NZAA-A	NZAA-A	Auckland	; - Auckland	ENR	C	true	0	99900		0	0	VSYS
-11240	NZCS	NZCS	South Sector	; - South Sector	ENR	C	true	0	99900		0	0	NZZCNZZO
-11241	NZCK	NZCK	Kaikoura Sector	; - Kaikoura Sector	ENR	C	true	0	99900		0	0	NZZCNZZO
-11242	NZAR	NZAR	Raglan Sector	; - Raglan Sector	ENR	C	true	0	99900		0	0	VSYS
-11243	NZAA_APP	NZAA_APP	Auckland Approach	; - Auckland Approach	TMA	C	true	0	9500		0	0	NZZC
-11244	NZCH_APP	NZCH_APP	Christchurch Approach	; - Christchurch Approach	TMA	C	true	0	9500		0	0	NZZC
-11246	NZHN_APP	NZHN_APP	Hamilton Approach	; - Hamilton Approach	TMA	C	true	0	9500		0	0	NZZC
-11247	NZOH_APP	NZOH_APP	Ohakea Approach	; - Ohakea Approach	TMA	C	true	0	9500		0	0	NZZC
-11248	NZQN_APP	NZQN_APP	Queenstown Approach	; - Queenstown Approach	TMA	C	true	0	17500		0	0	NZZC
-11249	NZWN_APP	NZWN_APP	Wellington Approach	; - Wellington Approach	TMA	C	true	0	9500		0	0	NZZC
+11250	NZOH	NZOH	Ohakea	; - Ohakea	ENR	C	true	0	99900		0	0	NZZCNZZO
+11251	NZCT	NZCT	Taranaki	; - Taranaki	ENR	C	true	0	99900		0	0	VSYS
+11252	NZCT-A	NZCT-A	Taranaki inc Ohakea	; - Taranaki inc Ohakea	ENR	C	true	0	99900		0	0	VSPY
+11253	NZCB	NZCB	Bay Approach	; - Bay Approach	ENR	C	true	0	99900		0	0	NZZCNZZO
+11254	NZAA	NZAA	Auckland inc Bays	; - Auckland inc Bays	ENR	C	true	0	99900		0	0	VSPY
+11255	NZAA-A	NZAA-A	Auckland	; - Auckland	ENR	C	true	0	99900		0	0	VSYS
+11256	NZCS	NZCS	South Sector	; - South Sector	ENR	C	true	0	99900		0	0	NZZCNZZO
+11257	NZCK	NZCK	Kaikoura Sector	; - Kaikoura Sector	ENR	C	true	0	99900		0	0	NZZCNZZO
+11258	NZAR	NZAR	Raglan Sector	; - Raglan Sector	ENR	C	true	0	99900		0	0	VSYS
+11259	NZAA_APP	NZAA_APP	Auckland Approach	; - Auckland Approach	TMA	C	true	0	9500		0	0	NZZC
+11260	NZCH_APP	NZCH_APP	Christchurch Approach	; - Christchurch Approach	TMA	C	true	0	9500		0	0	NZZC
+11261	NZHN_APP	NZHN_APP	Hamilton Approach	; - Hamilton Approach	TMA	C	true	0	9500		0	0	NZZC
+11263	NZOH_APP	NZOH_APP	Ohakea Approach	; - Ohakea Approach	TMA	C	true	0	9500		0	0	NZZC
+11264	NZQN_APP	NZQN_APP	Queenstown Approach	; - Queenstown Approach	TMA	C	true	0	17500		0	0	NZZC
+11265	NZWN_APP	NZWN_APP	Wellington Approach	; - Wellington Approach	TMA	C	true	0	9500		0	0	NZZC
