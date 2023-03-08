@@ -23,7 +23,7 @@ CREATE TABLE `pac_airwayxml` (
   `Route` varchar(32) NOT NULL,
   `Direction` varchar(32) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=435 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=438 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
