@@ -40,7 +40,7 @@ CREATE TABLE `runway` (
   `Long2Doub` double NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `UniqueKey` (`UniqueKey`)
-) ENGINE=InnoDB AUTO_INCREMENT=2479 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=2309 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
