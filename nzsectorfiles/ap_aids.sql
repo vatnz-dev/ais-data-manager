@@ -31,7 +31,7 @@ CREATE TABLE `ap_aids` (
   KEY `idx_ap_aids_latlong` (`Lat1Doub`,`Long1Doub`),
   KEY `idx_ap_aids_ident` (`Ident`),
   KEY `idx_ap_aids_type` (`Type`)
-) ENGINE=InnoDB AUTO_INCREMENT=167425 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=176020 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
