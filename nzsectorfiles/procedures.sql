@@ -34,7 +34,8 @@ CREATE TABLE `procedures` (
   `sctfilename` varchar(45) NOT NULL,
   `colour` varchar(45) NOT NULL DEFAULT '',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4282 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=4287 DEFAULT CHARSET=utf8;
+
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
