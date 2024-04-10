@@ -27,8 +27,6 @@ CREATE TABLE `transfixes` (
   PRIMARY KEY (`id`,`Procedures_id`),
   KEY `fk_ProcFixes_Procedures1_idx` (`Procedures_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=18661 DEFAULT CHARSET=utf8;
-
-
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
