@@ -34,7 +34,7 @@ CREATE TABLE `pac_airwaywpts` (
   `aw_id` int(11) NOT NULL,
   PRIMARY KEY (`id`),
   KEY `aw_id` (`aw_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=1919 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=1926 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
