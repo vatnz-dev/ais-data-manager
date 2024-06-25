@@ -33,7 +33,7 @@ CREATE TABLE `geo_coast` (
   PRIMARY KEY (`id`),
   KEY `Index_2` (`Type`,`Lat1Doub`,`Long1Doub`,`Lat2Doub`,`Long2Doub`) USING BTREE,
   KEY `ind_geo` (`Lat1Doub`,`Long1Doub`,`Lat2Doub`,`Long2Doub`)
-) ENGINE=InnoDB AUTO_INCREMENT=166626 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=183850 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
