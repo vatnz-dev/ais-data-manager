@@ -1,8 +1,8 @@
--- MariaDB dump 10.19  Distrib 10.4.22-MariaDB, for Win64 (AMD64)
+-- MariaDB dump 10.19  Distrib 10.4.32-MariaDB, for Win64 (AMD64)
 --
 -- Host: localhost    Database: nzsectorfiles
 -- ------------------------------------------------------
--- Server version	10.4.22-MariaDB
+-- Server version	10.4.32-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -20,15 +20,15 @@ DROP TABLE IF EXISTS `holding`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `holding` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `waypoint` varchar(16) CHARACTER SET latin1 NOT NULL DEFAULT '',
+  `waypoint` varchar(16) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL DEFAULT '',
   `track` int(11) NOT NULL,
-  `direction` enum('L','R') CHARACTER SET latin1 NOT NULL,
+  `direction` enum('L','R') CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL,
   `lowerlimit` int(11) NOT NULL,
   `Lat1Doub` double NOT NULL DEFAULT 0,
   `Long1Doub` double NOT NULL DEFAULT 0,
   `ExportID` enum('NZZC','VSPY','VSYS','NZZCVSYS','NZZO','NZZOVSYS','NZZCNZZO') NOT NULL DEFAULT 'NZZC',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=1632 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=1700 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
