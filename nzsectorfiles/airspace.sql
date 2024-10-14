@@ -34,8 +34,7 @@ CREATE TABLE `airspace` (
   `HrsEnd` varchar(8) NOT NULL,
   `ExportID` enum('NZZC','VSPY','VSYS','NZZCVSYS','NZZO','NZZOVSYS','NZZCNZZO') NOT NULL DEFAULT 'NZZC',
   PRIMARY KEY (`id`),
-  UNIQUE KEY `ident` (`ident`),
-  CONSTRAINT `fk_airspace` FOREIGN KEY (`id`) REFERENCES `airspaceboundary` (`id_airspace`)
+  UNIQUE KEY `ident` (`ident`)
 ) ENGINE=InnoDB AUTO_INCREMENT=14604 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
