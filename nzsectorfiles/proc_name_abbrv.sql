@@ -24,7 +24,7 @@ CREATE TABLE `proc_name_abbrv` (
   `ese_name` varchar(32) NOT NULL COMMENT 'No spaces in name',
   PRIMARY KEY (`id`),
   UNIQUE KEY `ese_name` (`ese_name`)
-) ENGINE=InnoDB AUTO_INCREMENT=83 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=84 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
