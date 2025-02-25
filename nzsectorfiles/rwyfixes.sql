@@ -26,7 +26,7 @@ CREATE TABLE `rwyfixes` (
   `Procedures_id` int(11) NOT NULL,
   PRIMARY KEY (`id`,`Procedures_id`),
   KEY `fk_ProcFixes_Procedures1_idx` (`Procedures_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=26728 DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=26736 DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
