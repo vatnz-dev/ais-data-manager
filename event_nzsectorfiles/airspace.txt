@@ -4,7 +4,7 @@
 9130	NTTT	NTTT	Tahiti Oceanic FIR	; - Tahiti Oceanic FIR	ManualFIR	A	true	0	99900		0	0	NZZO
 9581	NVVV	NVVV	Vanuatu	; - Vanuatu	ENR	C	true	0	99900		0	0	NZZOVSYS
 9582	NWWW	NWWW	New Calendonia	; - New Calendonia	ENR	C	true	0	99900		0	0	NZZOVSYS
-9583	NTSN	NTSN	Tasman Oceanic	; - Tasman Oceanic	ENR	C	true	0	99900		0	0	NZZOVSYS
+9583	NTSN	NTSN	Tasman Oceanic	; - Tasman Oceanic	ENR	C	true	0	99900		0	0	NZZO
 9584	NCOL	NCOL	Coral Oceanic	; - Coral Oceanic	ENR	C	true	0	99900		0	0	NZZOVSYS
 9585	NFLD	NFLD	Flinders Oceanic	; - Flinders Oceanic	ENR	C	true	0	99900		0	0	NZZOVSYS
 9586	NHWE	NHWE	Howe Oceanic	; - Howe Oceanic	ENR	C	true	0	99900		0	0	NZZOVSYS
@@ -29,7 +29,7 @@
 11255	NZAA-A	NZAA-A	Auckland	; - Auckland	ENR	C	true	0	99900		0	0	VSYS
 11256	NZCS	NZCS	South Sector	; - South Sector	ENR	C	true	0	99900		0	0	NZZCNZZO
 11257	NZCK	NZCK	Kaikoura Sector	; - Kaikoura Sector	ENR	C	true	0	99900		0	0	NZZCNZZO
-11258	NZAR	NZAR	Raglan Sector	; - Raglan Sector	ENR	C	true	0	99900		0	0	VSYS
+11258	NZAR	NZAR	Raglan Sector	; - Raglan Sector	ENR	C	true	0	99900		0	0	NZZC
 11259	NZAA_APP	NZAA_APP	Auckland Approach	; - Auckland Approach	TMA	C	true	0	9500		0	0	NZZC
 11260	NZCH_APP	NZCH_APP	Christchurch Approach	; - Christchurch Approach	TMA	C	true	0	9500		0	0	NZZC
 11261	NZHN_APP	NZHN_APP	Hamilton Approach	; - Hamilton Approach	TMA	C	true	0	9500		0	0	NZZC
@@ -270,3 +270,4 @@
 16827	NZR908	NZR908 SFC-060 CANTERBURY BIGHT	R908 CANTERBURY BIGHT	; - CANTERBURY BIGHT	Restricted		true	0	6000	H24	0000	0000	NZZC
 16828	NZR909	NZR909 SFC-060 CANTERBURY BIGHT	R909 CANTERBURY BIGHT	; - CANTERBURY BIGHT	Restricted		true	0	6000	H24	0000	0000	NZZC
 16829	NZB680	PPTWR	PARAPARAUMU NZB680	; PARAPARAUMU AFIS (NZPP)	MBZ	G	true	0	0		0	0	NZZC
+16830	NZWD_APP	NZWD_APP	Williams Field Approach	; - Williams Field Approach	TMA	E	true	0	24500		0	0	NZZO

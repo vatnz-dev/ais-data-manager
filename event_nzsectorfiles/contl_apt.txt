@@ -29,3 +29,4 @@
 89	NZWD	D	WD	NZWD	Williams	Williams		NZZO
 90	NZFX	G	FX	NZFX	McMurdo	McMurdo		NZZO
 91	NFTV	G	TV	NFTV	Vavau	Vavau		NZZO
+92	NZCM	E	CM	NZCM	McMurdo Station	McMurdo		NZZO
