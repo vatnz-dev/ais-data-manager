@@ -30,7 +30,7 @@ CREATE TABLE `es_radar` (
   `SSR_S_ADSB` varchar(32) NOT NULL DEFAULT '''0:0:0''',
   `SSR_C` varchar(32) NOT NULL DEFAULT '0:0:0',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=60 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=67 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
