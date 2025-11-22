@@ -36,7 +36,7 @@ CREATE TABLE `airspace` (
   `ExportID` enum('NZZC','VSPY','VSYS','NZZCVSYS','NZZO','NZZOVSYS','NZZCNZZO') NOT NULL DEFAULT 'NZZC',
   PRIMARY KEY (`id`),
   UNIQUE KEY `ident` (`ident`)
-) ENGINE=InnoDB AUTO_INCREMENT=16598 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=16830 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
