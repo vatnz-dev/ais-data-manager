@@ -1,9 +1,9 @@
 /*M!999999\- enable the sandbox mode */ 
--- MariaDB dump 10.19-11.8.2-MariaDB, for Win64 (AMD64)
+-- MariaDB dump 10.19-11.8.5-MariaDB, for Win64 (AMD64)
 --
 -- Host: localhost    Database: nzsectorfiles
 -- ------------------------------------------------------
--- Server version	11.8.2-MariaDB
+-- Server version	11.8.5-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -32,7 +32,7 @@ CREATE TABLE `ap_aids` (
   KEY `idx_ap_aids_latlong` (`Lat1Doub`,`Long1Doub`),
   KEY `idx_ap_aids_ident` (`Ident`),
   KEY `idx_ap_aids_type` (`Type`)
-) ENGINE=InnoDB AUTO_INCREMENT=246728 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=249814 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
