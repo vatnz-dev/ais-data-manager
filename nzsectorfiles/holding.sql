@@ -1,9 +1,9 @@
 /*M!999999\- enable the sandbox mode */ 
--- MariaDB dump 10.19-11.8.2-MariaDB, for Win64 (AMD64)
+-- MariaDB dump 10.19-11.8.5-MariaDB, for Win64 (AMD64)
 --
 -- Host: localhost    Database: nzsectorfiles
 -- ------------------------------------------------------
--- Server version	11.8.2-MariaDB
+-- Server version	11.8.5-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -29,7 +29,7 @@ CREATE TABLE `holding` (
   `Long1Doub` double NOT NULL DEFAULT 0,
   `ExportID` enum('NZZC','VSPY','VSYS','NZZCVSYS','NZZO','NZZOVSYS','NZZCNZZO') NOT NULL DEFAULT 'NZZC',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2374 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=2442 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 
